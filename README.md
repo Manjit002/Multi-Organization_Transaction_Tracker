@@ -36,27 +36,7 @@ A secure, scalable **Spring Boot backend API** for managing multiple organizatio
 
 ---
 
-
-```
-
-## 🧩 Project Structure
-src/
-├── main/
-│   ├── java/com/mjt/Multi_Organization_Transaction_Tracker
-│   │   ├── config/          # Security + JWT Config
-│   │   ├── controller/      # REST Controllers
-│   │   ├── dto/             # Data Transfer Objects
-│   │   ├── entity/          # JPA Entities
-│   │   ├── repo/            # JPA Repositories
-│   │   └── service/         # Business Logic
-│   └── resources/
-│       ├── application-example.properties  # Safe sample config
-│       └── application.properties (ignored)
-└── test/
-
 ````
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -152,6 +132,7 @@ Access Swagger UI at:
 **👤 Manjit Patel**
 
 ---
+
 
 
 
