@@ -36,10 +36,10 @@ A secure, scalable **Spring Boot backend API** for managing multiple organizatio
 
 ---
 
-## 🧩 Project Structure
 
 ```
 
+## 🧩 Project Structure
 src/
 ├── main/
 │   ├── java/com/mjt/Multi_Organization_Transaction_Tracker
@@ -152,5 +152,6 @@ Access Swagger UI at:
 **👤 Manjit Patel**
 
 ---
+
 
 
