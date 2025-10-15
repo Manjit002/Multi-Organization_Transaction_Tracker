@@ -1,10 +1,3 @@
-Perfect ✅ — here’s a **professional, ready-to-use `README.md`** for your project
-👉 *“Multi-Organization Transaction Tracker (Spring Boot + PostgreSQL + Google OAuth2 + JWT)”*
-
-You can copy-paste this into your project root (`README.md`) before pushing to GitHub.
-
----
-
 ## 🧾 README.md
 
 ```markdown
@@ -159,4 +152,5 @@ Access Swagger UI at:
 **👤 Manjit Patel**
 
 ---
+
 
