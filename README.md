@@ -127,11 +127,12 @@ Access Swagger UI at:
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Developer
 
 **👤 Manjit Patel**
 
 ---
+
 
 
 
