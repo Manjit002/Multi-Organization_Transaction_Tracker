@@ -1,7 +1,4 @@
-## 🧾 README.md
-
-```markdown
-# 🏢 Multi-Organization Transaction Tracker
+## 🏢 Multi-Organization Transaction Tracker
 
 A secure, scalable **Spring Boot backend API** for managing multiple organizations and their sales/purchase transactions — featuring **Google OAuth2 Login**, **JWT Authentication**, and **PostgreSQL** persistence.
 
@@ -35,8 +32,6 @@ A secure, scalable **Spring Boot backend API** for managing multiple organizatio
 - Maven
 
 ---
-
-````
 
 ## ⚙️ Setup Instructions
 
@@ -132,6 +127,7 @@ Access Swagger UI at:
 **👤 Manjit Patel**
 
 ---
+
 
 
 
